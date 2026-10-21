@@ -1,6 +1,6 @@
 MYFOREXFIRM / XPIPS / TRADINGCULT / NEXTSTAGE / PFTCORE
 
-c'est pas un prop firm. c'est une machine a compotes.
+
 
 ce que les fichiers ici prouvent:
 
