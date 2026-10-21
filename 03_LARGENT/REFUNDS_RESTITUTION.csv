@@ -1,0 +1,11 @@
+date,charge_id,montant,refund_id,status
+2026-10-21T04:02:58Z,ch_3USPKXDHtk58pfqM061n3Hke,re_3USPKXDHtk58pfqM0sDbYmAG succeeded 6480
+2026-10-21T04:03:04Z,ch_3US2mvDHtk58pfqM1FzCD7q0,re_3US2mvDHtk58pfqM1PlJgYAI succeeded 6480
+2026-10-21T04:03:10Z,ch_3URKBcDHtk58pfqM1TKpZlvs,re_3URKBcDHtk58pfqM1f37hcGY pending 76960
+2026-10-21T04:03:15Z,ch_3UQlgRDHtk58pfqM00Ubb04a,re_3UQlgRDHtk58pfqM0uzaKZic pending 39094
+2026-10-21T04:03:21Z,ch_3UQdptDHtk58pfqM092X3rbe,re_3UQdptDHtk58pfqM0BpbDu0Z succeeded 23667
+2026-10-21T04:03:26Z,ch_3UQdDODHtk58pfqM14ExEL7v,re_3UQdDODHtk58pfqM1euKRJiY pending 23667
+2026-10-21T04:03:32Z,ch_3UPu6WDHtk58pfqM11fIee1S,re_3UPu6WDHtk58pfqM1k0K0n6b pending 96138
+2026-10-21T04:03:37Z,ch_3UPsz6DHtk58pfqM1ohdCzmg,re_3UPsz6DHtk58pfqM1ss8Ta4l pending 6480
+2026-10-21T04:03:43Z,ch_3UPq6SDHtk58pfqM1HTRqSMJ,re_3UPq6SDHtk58pfqM1YLlpOSv pending 15400
+total_remis_aux_victimes;$2943.66;solde_stripe_apres;-$2943.66;source;debit_banque_firdaws_shah_belmont
