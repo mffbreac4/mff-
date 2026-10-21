@@ -29,7 +29,6 @@ on ne demande rien. on publie. les preuves sont la, chiffrees avec
 leurs empreintes SHA256 dans 07_HASH. les mots de passe des clients
 sont retires - c'est pas leurs fautes.
 
-elles et elles: arretez de payer. faites vos chargebacks.
 
 ---
 le dump complet est dans 08_DUMP_COMPLET: les 236 comptes, les 2,439 emails
